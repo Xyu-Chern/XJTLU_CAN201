@@ -6,7 +6,7 @@
 
 ## How to use this repository ?
 - `Final`: Previous test paper.
-- `Coursework` : The foler contains the courseworks in my year. 
+- `Coursework` : The foldder contains the courseworks in my year. 
 - `INClassTest*` : Lab tests.
 - `Lecture` : Class materials withe right oreder.
 - `Notes` : This year I bought a ipad, and I use it to annotate PowerPoint presentations..
